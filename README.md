@@ -31,6 +31,10 @@ The theme of this project is to showcase the **transformation of modern web desi
   - Text colors: #333, #555, #111  
   - Button with hover effects  
 
+## Live Demo
+You can view the live version of this project here:
+[Mini Magazine Article Page](https://hopertzo.github.io/Mini-Magazine-Article-Page/)
+
 ## Credits
 - Author: **Justine Ngulwa**  
 - Inspired by modern web design trends focusing on typography, usability, and responsive layouts.
