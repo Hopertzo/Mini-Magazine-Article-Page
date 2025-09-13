@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(#E0F7FA, #FFFFFF);
+    color: #333;
+}
+
+header{
+    width: 67vw;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+h1{
+    font-size: 4rem;
+    font-family: 'Georgia', serif;
+    color: #111;
+}
+
+header p{
+    font-size: .8rem;
+    font-family: 'Arial', sans-serif;
+    color: #555;
+}
+
+main{
+    width: 67vw;
+    margin: 1rem auto 0;
+    column-count: 2;
+}
+
+img{
+    width: 100%;
+}
+
+.related h2{
+    font-family: 'Arial Black', sans-serif;
+}
+
+ul{
+    list-style: none;
+    padding: 0.3rem 0 1.5rem;
+    line-height: 1.7;
+}
+
+li{
+    font-family: 'verdana', sans-serif;
+ }
+
+.article p{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', serif;
+    margin-bottom: 1em; 
+}
+
+.blockquote p{
+    font-size: 1.2rem;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 1em;
+    padding: .5em 1em;
+}
+
+footer{
+    width: 67vw;
+    height: 12vh;
+    position: relative;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+button{
+    font-size: inherit;
+    position: absolute;
+    right: 0px;
+    border: 1px;
+    border-radius: 1em;
+    background-color: #00bcd4;
+    padding: .7em 1em;
+   
+}
+
+button a{
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;    
+}
+
+button:hover{
+    background-color: #007bff;
+}
+
+button a:hover{
+    color: #333;
+}
+
+
