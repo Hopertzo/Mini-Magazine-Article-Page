@@ -57,6 +57,10 @@ li{
     margin-bottom: 1em; 
 }
 
+span{
+    font-weight: 900;
+}
+
 .blockquote p{
     font-size: 1.2rem;
     font-family: 'Georgia', serif;
